@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.3.2",
     "theme": {
       "name": "mobirise4",
@@ -29,7 +29,8 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     }
   },
   "pages": {
